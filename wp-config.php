@@ -29,7 +29,7 @@ define( 'DB_USER', 'votanlean' );
 define( 'DB_PASSWORD', 'votanlean' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'votanlean.cuvco21ek71w.ap-southeast-1.rds.amazonaws.com' );
+define( 'DB_HOST', 'master.cuvco21ek71w.ap-southeast-1.rds.amazonaws.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );

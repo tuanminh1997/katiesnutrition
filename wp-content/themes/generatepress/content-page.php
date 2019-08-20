@@ -51,6 +51,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 			?>
 		</div><!-- .entry-content -->
 
+
 		<?php
 		/**
 		 * generate_after_content hook.
